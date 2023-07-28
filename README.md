@@ -3,17 +3,16 @@
 A project built with cypress.io with automation test scripts testing the QR Code Generator on the (https://www.qrcode-monkey.com/)[QR Code Monkey] site.
 
 ## Setup and Installation
-
-	```
+```
   cd /your/project/path
   npm install
-  ```
+```
 
 ## Steps to Run Test
 1. 
- 	```
+```
   npx cypress open
-  ```
+```
 2. Once project window opens, select E2E Testing
 3. Select Chrome as your browser
 4. Click "Start E2E Testing in Chrome
