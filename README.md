@@ -1,6 +1,6 @@
 # QR Code Monkey smoke test
 
-A project built with cypress.io with automation test scripts testing the QR Code Generator on the (https://www.qrcode-monkey.com/)[QR Code Monkey] site.
+A project built with [cypress.io](https://docs.cypress.io/) with automation test scripts testing the QR Code Generator on the [QR Code Monkey](https://www.qrcode-monkey.com/) site.
 
 ## Setup and Installation
 ```
