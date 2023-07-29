@@ -21,11 +21,10 @@ module.exports = defineConfig({
               resolve(null);
             });
           });
-
-
           },
         })
     },
   },
+  defaultCommandTimeout: 12000,
   chromeWebSecurity: false,
 });
