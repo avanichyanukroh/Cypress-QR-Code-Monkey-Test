@@ -21,7 +21,7 @@ Install any of the Cypress supported Node versions.
 ```
 2. Once project window opens, select E2E Testing
 3. Select Chrome as your browser
-4. Click "Start E2E Testing in Chrome
+4. Click "Start E2E Testing" in Chrome
 5. In the Specs window, select QRCodeSmoke.cy.js to run test script
 
 ## Future Smoke Tests
